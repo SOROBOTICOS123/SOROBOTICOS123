@@ -1,4 +1,4 @@
-# 🤖 SoRobóticos 
+# 🤖 Sorobóticos 
 
 Bem-vindo ao Github oficial da **Sorobóticos**, equipe de robótica do SESI-Sorocaba.
 
