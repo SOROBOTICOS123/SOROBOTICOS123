@@ -11,7 +11,7 @@ Bem-vindo ao Github oficial da **Sorobóticos**, equipe de robótica do SESI-Sor
 |------------------------|
 | Nicole Oliveira Lima   |
 | Marcela Pereira Lopes  |
-| Mirella                |
+| Mirella Pacheco        |
 | Henrique Cabral        |
 |                        |
 
