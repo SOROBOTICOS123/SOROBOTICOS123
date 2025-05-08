@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🤖 SoRobóticos 
 
-<!--
-**SOROBOTICOS123/SOROBOTICOS123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao Github oficial da **Sorobóticos**, equipe de robótica do SESI-Sorocaba.
 
-Here are some ideas to get you started:
+---
+## Estamos iniciando nossos treinos com muita dedicação para a competição RoboCup Rescue Maze ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Equipe SoRobóticos
+
+| Nome                  
+|------------------------|
+| Nicole Oliveira Lima   |
+| Marcela Pereira Lopes  |
+| Mirella                |
+| Henrique Cabral        |
+|                        |
+
+
+## 📸 Foto da Equipe (em breve)
+
+
+
+## 🌐 Contato & Redes
+
+- 📸 Instagram: [@_soroboticos](https://instagram.com/_soroboticos)
+- 📧 E-mail: soroboticosmaze123@gmail.com
+
+---
+
+
