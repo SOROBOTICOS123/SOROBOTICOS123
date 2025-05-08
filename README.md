@@ -5,7 +5,7 @@ Bem-vindo ao Github oficial da **Sorobóticos**, equipe de robótica do SESI-Sor
 ---
 ## Estamos iniciando nossos treinos com muita dedicação para a competição RoboCup Rescue Maze ⚙️
 
-## 🧑‍💻 Equipe SoRobóticos
+## 🧑‍💻 Equipe Sorobóticos
 
 | Nome                  
 |------------------------|
