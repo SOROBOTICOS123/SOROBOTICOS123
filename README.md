@@ -3,7 +3,7 @@
 Bem-vindo ao Github oficial da **Sorobóticos**, equipe de robótica do SESI-Sorocaba.
 
 ---
-## Estamos iniciando nossos treinos com muita dedicação para a competição RoboCup Rescue Maze ⚙️
+## Vamos com tudo para a Rescue Maze 2025! ⚙️
 
 ## 🧑‍💻 Equipe Sorobóticos
 
