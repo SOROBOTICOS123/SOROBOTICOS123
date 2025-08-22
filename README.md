@@ -16,7 +16,7 @@ Bem-vindo ao Github oficial da **Sorobóticos**, equipe de robótica do SESI-Sor
 
 
 ## 📸 Foto da Equipe (em breve)
-<img src="file:///C:/Users/Usuario/Downloads/_R6A2129.JPG" alt="Equipe">
+![Image](https://github.com/user-attachments/assets/0f7d6ee4-1665-4615-8544-fc3061b5ce61)
 
 
 ## 🌐 Contato & Redes
