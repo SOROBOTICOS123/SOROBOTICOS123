@@ -11,7 +11,6 @@ Bem-vindo ao Github oficial da **Sorobóticos**, equipe de robótica do SESI-Sor
 |------------------------|-------------------------|                   
 | Nicole Oliveira Lima   | Programadora            |
 | Marcela Pereira Lopes  | Modeladora/Documentação |
-| Mirella Pacheco        | Eletrônica/Documentação |
 | Henrique Cabral        | Programador             |
 |                        |                         |
 
